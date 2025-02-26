@@ -1,6 +1,6 @@
 # Hello, I'm Mohammed Omer 👋
 
-![Profile Banner](https://mohammedomer.vip/banner.jpg)
+![Profile Banner](https://framerusercontent.com/images/3zc30qr0NEHNlSYhuqTzxGyokY.jpg?scale-down-to=1024)
 
 ## About Me
 
