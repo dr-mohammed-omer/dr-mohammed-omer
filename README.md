@@ -1,4 +1,4 @@
-# Hello, I'm Dr. Mohammed Omer 👋
+# Hello, I'm Mohammed Omer 👋
 
 ![Profile Banner](https://mohammedomer.vip/banner.jpg)
 
