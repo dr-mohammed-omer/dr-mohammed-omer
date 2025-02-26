@@ -10,11 +10,11 @@ I'm a software engineer and data analyst based in Hyderabad, India. With a backg
 
 Here are some of my notable projects:
 
-- **Paper Whiz**: An NLP-based recommender system designed to assist users in discovering valuable machine learning papers aligned with their interests. [GitHub Repository](https://github.com/dr-mohammed-omer/paper-whiz)
+- **Paper Whiz**: An NLP-based recommender system designed to assist users in discovering valuable machine learning papers aligned with their interests. 
 
-- **Job Portal**: An application that matches job seekers with relevant postings, focusing on user experience and interface design. [GitHub Repository](https://github.com/dr-mohammed-omer/job-portal)
+- **Job Portal**: An application that matches job seekers with relevant postings, focusing on user experience and interface design.
 
-- **Desserts E-commerce Website**: An online platform for selling a variety of desserts, showcasing my skills in web development and e-commerce solutions. [GitHub Repository](https://github.com/dr-mohammed-omer/desserts-ecommerce)
+- **Desserts E-commerce Website**: An online platform for selling a variety of desserts, showcasing my skills in web development and e-commerce solutions. 
 
 ## Certifications
 
@@ -34,8 +34,8 @@ I have achieved several certifications that reflect my dedication and passion fo
 Feel free to reach out to me through the following platforms:
 
 - **Website**: [mohammedomer.vip](https://mohammedomer.vip/)
-- **LinkedIn**: [linkedin.com/in/dr-mohammed-omer](https://www.linkedin.com/in/dr-mohammed-omer/)
-- **Twitter**: [@dr_mohammed_omer](https://twitter.com/dr_mohammed_omer)
+- **LinkedIn**: [linkedin.com/in/mohdomer07](https://www.linkedin.com/in/mohdomer07/)
+- **Instagram**: [@_mromer_](https://instagram.com/_mromer_)
 
 ## GitHub Stats
 
