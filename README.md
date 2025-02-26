@@ -37,9 +37,9 @@ Feel free to reach out to me through the following platforms:
 - **LinkedIn**: [linkedin.com/in/mohdomer07](https://www.linkedin.com/in/mohdomer07/)
 - **Instagram**: [@_mromer_](https://instagram.com/_mromer_)
 
-## GitHub Stats
+## GitHub Top Languages
 
-![dr-mohammed-omer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dr-mohammed-omer&show_icons=true&theme=tokyonight)
+![dr-mohammed-omer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-mohammed-omer&theme=flag-india&show_icons=true&hide_border=false&layout=compact)
 
 ## GitHub Streak
 
